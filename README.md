@@ -1,3 +1,9 @@
+## Token Generator
+
+```
+https://bit.ly/3epp8y2
+```
+
 ## Windows Install
 
 Open install.bat
